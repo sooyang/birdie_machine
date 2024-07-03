@@ -19,5 +19,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 Goal
 Fairways: 60%
-GIR: 12+
+GIR: 12+ / 66%
 Putts: <=31
