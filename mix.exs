@@ -59,7 +59,6 @@ defmodule BirdieMachine.MixProject do
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
       {:bandit, "~> 1.5"},
-      {:nimble_csv, "~> 1.1"},
       {:csv, "~> 3.2"}
     ]
   end
